@@ -31,6 +31,11 @@ basis (R:).
 
 ----------
 
+Allwinner sun50i A64
+R:      Amit Singh Tomar <amittomer25@gmail.com>
+S:      Maintained
+F:      core/arch/arm/plat-allwinner/
+
 ARM Foundation FVP
 R:	Linaro <op-tee@linaro.org>
 S:	Maintained
